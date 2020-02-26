@@ -1,8 +1,4 @@
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.0/gsap.min.js"></script>
-
-
   gsap.from('#tree', {
     opacity: 0, 
     delay: 3,
