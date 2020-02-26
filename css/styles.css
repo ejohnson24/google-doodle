@@ -4,11 +4,59 @@
   * Change Background Color
   * Outline Elements
 */
+/* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
+ */
+/* Doodle Stage */
 
-* {
-    outline: 1px dotted black;
+#stage {
+  background: #f0ede4;
+  height: 300px;
+  width: 600px;
+  overflow: hidden;
 }
 
-body {
-  background: url(../img/android-chrome-192x192.png);
+#background {
+  position: relative;
+  left: -750px;
+  top: -80px;
+  height: 300px;
+  width: 1945px;
+}
+
+h1 {
+  color: #95ACC1;
+  position: relative;
+  left: -200px;
+  font-family: "Trade Winds", sans-serif;
+  font-size: 2em;
+}
+
+#sled {
+  width: 300px;
+  z-index: 10;
+  position: relative;
+  top: -200px;
+  left: 24px;
+  
+}
+
+#dog {
+  width: 100px;
+  height: 100px;
+  z-index: 10;
+  position: relative;
+  top: -185px;
+  left: -20px;
+  
+}
+
+
+#dog2 {
+  width: 100px;
+  height: 100px;
+  z-index: 10;
+  position: relative;
+  top: -185px;
+  left: -230px;
+  
 }
