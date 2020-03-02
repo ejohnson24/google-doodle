@@ -4,3 +4,4 @@ This logo is meant to represent the sport of dogsledding, and give a feeling for
 
 # Resources links
 External styling: https://codepen.io/manikoth/pen/NNNBYe.css
+SVG materials: https://github.com/ejohnson24/google-doodle/blob/master/TemplateforSVGDogsleddingGoogleDoodle.ai
